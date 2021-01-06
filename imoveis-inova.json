@@ -1,4 +1,181 @@
 {
-  "imoveis": "Adicionar imóveis aqui"
-  
+	"construtoras": [
+		{ 
+			"living":
+			[
+				[
+
+					{
+						"Living Cachambi":
+						[
+
+							{
+
+							}
+
+						]
+					}
+				]
+			]
+		},
+
+
+		{
+
+			"cyrela":
+
+
+			[
+
+				[
+					{ 
+						"vivaz Del Castilho": 
+
+						[
+							{
+								"ID_PRODUTO":"00001VVRJ",
+								"palavras chave":["Imóveis","Vivaz","Del Castilho"],
+
+								"unidades_":
+								{
+									"total_unidades": 468,
+									"total_vendido": 200,
+									"total_disponível": 200,
+									"total_reservado": 68
+								},
+
+								"midia":{
+									"videos": {
+										"href/src":""
+									},
+									"imagens": {
+										"href/src":""
+									}
+								},
+
+
+								"textos_propaganda":{
+									"texto_0":"",
+									"texto_1":"",
+									"texto_2":"",
+									"texto_3":""
+								},
+
+								"contatos para venda":
+								{			
+
+									"Contato 1":
+									{
+										"email": "fabiomendes@gmail.com",
+										"whatsapp":"9778411",
+										"fixo/ramal":"78754578/1200"
+									}, 
+									"Contato 2":
+									{
+										"email": "fabiomendes@gmail.com",
+										"whatsapp":"9778411",
+										"fixo/ramal":"78754578/1200"
+									},
+									"Contato 3":
+									{
+										"email": "fabiomendes@gmail.com",
+										"whatsapp":"9778411",
+										"fixo/ramal":"78754578/1200"
+									}
+
+								},
+
+								"valores": {
+									"valor do imóvel": 1400000,
+									"Aceita MCMV?":"",
+									"":"",
+									"bancos":
+
+									{
+
+									}
+
+								},
+
+
+
+								"estado da obra":
+								{
+									"detalhes":"",
+									"previsão":"",
+									"progresso":"",
+									"construção":{
+										"já feito":"",
+										"sendo feito":"",
+										"o que falta":""
+									}
+								},
+
+								"detalhes_prod": {
+
+
+									"ID_UNIDADE":"001VV000001RJ",
+									"":"",
+									"VALOR_UNIDADE":"",
+
+									"sol":{
+										"sol da manhã": "sim",
+										"sol da tarde": "não"
+									},
+									"varanda":{
+
+									},
+
+									"garagem":
+
+									{
+										"vagas": 1
+
+									},
+
+									"m²": "45m²",
+
+									"quartos": 2,
+
+									"sala": 1,
+
+									"cozinha": 1,
+
+									"banheiros": 1,
+
+									"unidades com vaga": "",
+
+									"area de lazer": {
+
+										"academia":"Sim",
+										"playground": "Sim",
+										"Piscina": "Sim",
+										"jardins":"Não"
+
+									}
+
+								},	
+
+								"localização": 
+
+								{
+
+									"pontos de referência":"Shopping Nova América",
+									"cidade":"Rio de Janeiro",
+									"estado":"RJ",
+									"bairro": "Del Castilho",
+									"endereço": "Avenida Dom Helder Câmara, 3443 , Del Castilho - Rio de Janeiro",
+
+									"lat": -45414,
+									"long": 32451
+								}
+							}
+						]
+					}
+				]
+
+			]
+
+		}
+	]
 }
